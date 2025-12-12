@@ -141,16 +141,9 @@ Please open issues for bugs or feature requests.
 
 ---
 
-## License
-
-If you want to add a license, add a `LICENSE` file. (MIT is a common permissive choice.)
-
----
-
 ## Acknowledgements
 
 Built with open-source tools and libraries. Thanks to the maintainers of React, Vite, TanStack Query, Recharts, shadcn/ui and Tailwind.
 
 ---
 
-*If you'd like, I can also adapt this README to include exact scripts/env names after I inspect the project's `package.json` and source files — tell me if you want me to fetch them and update the README accordingly.*
